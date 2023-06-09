@@ -28,7 +28,7 @@
     },
     "dependencies": {
         "@ethersproject/bignumber": "^5.1.1",
-        "@metamask/eth-sig-util": "^5.0.2",
+        "@metamask/eth-sig-util": "^4.0.0",
         "bn.js": "^5.2.1",
         "web3": "^1.8.1",
         "ws": "^8.12.1",
